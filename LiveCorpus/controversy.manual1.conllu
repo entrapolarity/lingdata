@@ -668,7 +668,7 @@
 665	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@h1987f#@h1987f#337.316#337.528
 666	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@h1987f#@h1987f#337.528#337.775
 667	просто	просто	PART	_	_	_	_	_	words@h1987f#@h1987f#337.775#338.12
-668	подмену	подмена	VERB	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@h1987f#@h1987f#338.12#338.614
+668	подмену	подмена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@h1987f#@h1987f#338.12#338.614
 669	просто	просто	PART	_	_	_	_	_	words@h1987f#@h1987f#338.614#338.919
 670	сублимацию	сублимация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@h1987f#@h1987f#338.919#339.775
 671	вот	вот	PART	_	_	_	_	_	words@h1987f#@h1987f#340.609#340.872
