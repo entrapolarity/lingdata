@@ -143,13 +143,13 @@
 140	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@den1984m#@den1984m#409.129#409.663
 141	никаких	никакой	DET	_	Case=Gen|Number=Plur	_	_	_	words@den1984m#@den1984m#409.663#410.197
 142	если	если	SCONJ	_	_	_	_	_	words@den1984m#@den1984m#410.533#410.757
-143	б	бы	AUX	_	_	_	_	_	words@den1984m#@den1984m#410.757#410.829
+143	б	бы	PART	_	_	_	_	_	words@den1984m#@den1984m#410.757#410.829
 144	не	не	PART	_	_	_	_	_	words@den1984m#@den1984m#410.829#410.965
 145	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Cnd|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@den1984m#@den1984m#410.965#411.207
 146	видеоигр	видеоигра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	words@den1984m#@den1984m#411.207#411.449
 147	у	у	ADP	_	_	_	_	_	words@den1984m#@den1984m#411.449#411.692
 148	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	words@den1984m#@den1984m#411.692#411.926
-149	б	бы	AUX	_	_	_	_	_	words@den1984m#@den1984m#411.926#412.018
+149	б	бы	PART	_	_	_	_	_	words@den1984m#@den1984m#411.926#412.018
 150	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@den1984m#@den1984m#412.018#412.346
 151	никаких	никакой	DET	_	Case=Gen|Number=Plur	_	_	_	words@den1984m#@den1984m#412.346#412.745
 152	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@den1984m#@den1984m#412.745#413.272
@@ -414,7 +414,7 @@
 411	да	да	PART	_	_	_	_	_	words@h1987f#@h1987f#260.54#260.718
 412	?	?	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#260.718#260.759
 413	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#260.759#260.812
-414	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@h1987f#@h1987f#260.812#260.972
+414	это	это	PART	_	_	_	_	_	words@h1987f#@h1987f#260.812#260.972
 415	что	что	PRON	_	Case=Nom	_	_	_	words@h1987f#@h1987f#260.972#261.173
 416	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@h1987f#@h1987f#261.173#261.521
 417	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#261.521#261.595
@@ -730,7 +730,7 @@
 727	вечера	вечер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@h1987f#@h1987f#387.706#388.064
 728	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#388.064#388.362
 729	как	как	ADV	_	Degree=Pos	_	_	_	words@h1987f#@h1987f#388.362#388.653
-730	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@h1987f#@h1987f#388.653#388.967
+730	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@h1987f#@h1987f#388.653#388.967
 731	существо	существо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@h1987f#@h1987f#388.967#389.662
 732	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#389.662#389.882
 733	в	в	ADP	_	_	_	_	_	words@h1987f#@h1987f#389.882#389.96
@@ -1127,7 +1127,7 @@
 1124	//	//	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#573.258#573.489
 1125	а	а	CCONJ	_	_	_	_	_	words@h1987f#@h1987f#573.489#573.802
 1126	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@h1987f#@h1987f#573.802#574.115
-1127	бы	бы	AUX	_	_	_	_	_	words@h1987f#@h1987f#574.115#574.251
+1127	бы	бы	PART	_	_	_	_	_	words@h1987f#@h1987f#574.115#574.251
 1128	всё	все	PART	_	_	_	_	_	words@h1987f#@h1987f#574.251#574.382
 1129	сидел	сидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Cnd|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@h1987f#@h1987f#574.382#574.543
 1130	и	и	CCONJ	_	_	_	_	_	words@h1987f#@h1987f#574.543#574.651
