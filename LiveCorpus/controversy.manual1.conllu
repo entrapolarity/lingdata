@@ -348,7 +348,7 @@
 345	начнёшь	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@den1984m#@den1984m#584.56#585.083
 346	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@den1984m#@den1984m#585.083#585.61
 347	//	//	PUNCT	_	_	_	_	_	words@den1984m#@den1984m#585.61#586.674
-348	#смеется#	_	X	_	_	_	_	_	words@den1984m#@den1984m#586.674#587.265
+348	#смеется#	#смеется#	X	_	_	_	_	_	words@den1984m#@den1984m#586.674#587.265
 349	и	и	CCONJ	_	_	_	_	_	words@den1984m#@den1984m#587.265#587.479
 350	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@den1984m#@den1984m#587.479#587.882
 351	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	words@den1984m#@den1984m#587.882#588.312
@@ -461,7 +461,7 @@
 458	там	там	ADV	_	Degree=Pos	_	_	_	words@h1987f#@h1987f#273.21#273.293
 459	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@h1987f#@h1987f#273.293#273.48
 460	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	words@h1987f#@h1987f#273.48#273.812
-461	та...	_	X	_	_	_	_	_	words@h1987f#@h1987f#273.812#273.87
+461	та...	та...	X	_	_	_	_	_	words@h1987f#@h1987f#273.812#273.87
 462	у	у	ADP	_	_	_	_	_	words@h1987f#@h1987f#274.27#274.355
 463	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	_	_	_	words@h1987f#@h1987f#274.355#274.538
 464	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@h1987f#@h1987f#274.538#274.734
@@ -482,7 +482,7 @@
 479	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@h1987f#@h1987f#277.63#278.004
 480	?	?	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#278.004#278.319
 481	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#278.319#278.634
-482	#одновременно#	_	X	_	_	_	_	_	words@h1987f#@h1987f#278.634#279.0
+482	#одновременно#	#одновременно#	X	_	_	_	_	_	words@h1987f#@h1987f#278.634#279.0
 483	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#279.0#279.291
 484	да	да	PART	_	_	_	_	_	words@h1987f#@h1987f#279.291#279.582
 485	и	и	PART	_	_	_	_	_	words@h1987f#@h1987f#279.743#279.833
@@ -529,7 +529,7 @@
 526	там	там	PART	_	_	_	_	_	words@h1987f#@h1987f#292.29#292.545
 527	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#292.545#292.69
 528	чем-то	что-то	PRON	_	Case=Ins	_	_	_	words@h1987f#@h1987f#292.69#292.985
-529	неп..	_	X	_	_	_	_	_	words@h1987f#@h1987f#292.985#293.281
+529	неп..	неп..	X	_	_	_	_	_	words@h1987f#@h1987f#292.985#293.281
 530	ну	ну	PART	_	_	_	_	_	words@h1987f#@h1987f#293.281#293.448
 531	там	там	PART	_	_	_	_	_	words@h1987f#@h1987f#293.448#293.662
 532	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#293.662#293.939
@@ -763,7 +763,7 @@
 760	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@h1987f#@h1987f#465.984#466.129
 761	с	с	ADP	_	_	_	_	_	words@h1987f#@h1987f#466.129#466.24
 762	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	_	_	_	words@h1987f#@h1987f#466.24#466.475
-763	зе...	_	X	_	_	_	_	_	words@h1987f#@h1987f#466.475#466.602
+763	зе...	зе...	X	_	_	_	_	_	words@h1987f#@h1987f#466.475#466.602
 764	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#466.602#466.669
 765	вот	вот	PART	_	_	_	_	_	words@h1987f#@h1987f#466.669#466.826
 766	здесь	здесь	ADV	_	Degree=Pos	_	_	_	words@h1987f#@h1987f#466.826#467.088
@@ -1045,7 +1045,7 @@
 1042	в	в	ADP	_	_	_	_	_	words@h1987f#@h1987f#550.369#550.496
 1043	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@h1987f#@h1987f#550.496#550.718
 1044	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@h1987f#@h1987f#550.718#550.993
-1045	#нрзб#	_	X	_	_	_	_	_	words@h1987f#@h1987f#550.993#551.268
+1045	#нрзб#	#нрзб#	X	_	_	_	_	_	words@h1987f#@h1987f#550.993#551.268
 1046	не	не	PART	_	_	_	_	_	words@h1987f#@h1987f#551.268#551.372
 1047	случится	случиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@h1987f#@h1987f#551.372#551.765
 1048	осознанности	осознанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@h1987f#@h1987f#551.765#552.436
@@ -1138,7 +1138,7 @@
 1135	фигню	фигня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@h1987f#@h1987f#576.231#576.934
 1136	ну	ну	PART	_	_	_	_	_	words@h1987f#@h1987f#583.564#583.681
 1137	да	да	CCONJ	_	_	_	_	_	words@h1987f#@h1987f#583.681#583.798
-1138	#смеется#	_	X	_	_	_	_	_	words@h1987f#@h1987f#592.718#593.27
+1138	#смеется#	#смеется#	X	_	_	_	_	_	words@h1987f#@h1987f#592.718#593.27
 1139	ну	ну	PART	_	_	_	_	_	words@h1987f#@h1987f#599.556#599.78
 1140	игры	игра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@h1987f#@h1987f#599.78#600.004
 1141	же	же	PART	_	_	_	_	_	words@h1987f#@h1987f#600.004#600.161
@@ -1149,7 +1149,7 @@
 1146	как	как	SCONJ	_	_	_	_	_	words@h1987f#@h1987f#600.731#600.977
 1147	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@h1987f#@h1987f#600.977#601.127
 1148	/	/	PUNCT	_	_	_	_	_	words@h1987f#@h1987f#601.127#601.238
-1149	#нрзб#	_	X	_	_	_	_	_	words@h1987f#@h1987f#601.238#601.499
+1149	#нрзб#	#нрзб#	X	_	_	_	_	_	words@h1987f#@h1987f#601.238#601.499
 1150	блин	блин	INTJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@h1987f#@h1987f#601.499#601.76
 1151	за	за	ADP	_	_	_	_	_	words@h1987f#@h1987f#601.76#601.852
 1152	к...	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@h1987f#@h1987f#601.852#601.949
